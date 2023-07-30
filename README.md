@@ -19,9 +19,7 @@
  - Software Process Models
  - Process Activities
 
-<br>
-
-### Software Process
+## Software Process#
 ```text
     กิจกรรมที่นำไปสู่การผลิตซอฟต์แวร์ อาจเกี่ยวข้องกับการพัฒนาซอฟต์แวร์โดยใช้ภาษาโปรแกรมมาตรฐานเช่น Java
     ในปัจจุบันไม่จำเป็นต้องพัฒนาด้วยวิธีนี้เสมอไป ซอฟต์แวร์ประยุกต์สมั้ยใหม่ได้รับการพัฒนาโดยการขนายและแก้ไขระบบ
@@ -56,5 +54,24 @@
 ซึ้งมีความคล่องตัว และรองรับการเปลี่ยนแปลงได้อย่างดี รูปแบบการปรับปรุงซอฟต์แวร์ที่หลากหาย ต้องคำนึงถึงเทคนิคที่ล้าสมัย
 
 
+<br>
 
+## Software Process Models#
 
+### รูปแบบกระบวนการซอฟต์แวร์มี 8อย่างคือ
+
+1. Water Fall Model:
+
+2. Prototyping:
+
+3. Joint Application Development (JAD):
+
+4. Rapid Application Development (RAD):
+
+5. Agile:
+
+6. Extreme Programing
+
+7. Object Oriented Development
+
+8. Service Oriented Architecture
